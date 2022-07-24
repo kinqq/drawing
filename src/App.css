@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+}
+
+.Success {
+    color: green;
+    font-size: 20px;
+}
+
+.Failure {
+    color: red;
+    font-size: 20px;
+}
+
+p {
+    display: inline;
+}
+
+button {
+    display: block;
+}
+
+.roleBtn {
+    margin-top: 10px;
+    font-size: 16px;
+}
